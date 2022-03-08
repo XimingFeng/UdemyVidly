@@ -374,3 +374,5 @@ E:\UdemyVidly\Vidly\obj\Debug\Vidly.dll
 E:\UdemyVidly\Vidly\obj\Debug\Vidly.pdb
 E:\UdemyVidly\Vidly\bin\AutoMapper.dll
 E:\UdemyVidly\Vidly\bin\AutoMapper.xml
+C:\Projects\Udemy MVC Vidly\Vidly\Vidly\bin\AutoMapper.dll
+C:\Projects\Udemy MVC Vidly\Vidly\Vidly\bin\AutoMapper.xml
